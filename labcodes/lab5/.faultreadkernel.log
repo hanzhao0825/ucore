@@ -115,4 +115,3 @@ kernel panic at kern/trap/trap.c:217:
 
 Welcome to the kernel debug monitor!!
 Type 'help' for a list of commands.
-K> 

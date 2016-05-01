@@ -116,4 +116,3 @@ kernel panic at kern/process/proc.c:462:
 
 Welcome to the kernel debug monitor!!
 Type 'help' for a list of commands.
-K> 
